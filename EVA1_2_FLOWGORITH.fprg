@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Dell"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-09-04 10:11:13 p. m."/>
+        <attribute name="created" value="RGVsbDtERVNLVE9QLUkyTVJSNzc7MjAyMy0wOS0wNDsxMDowNjowNyBwLiBtLjsyOTA4"/>
+        <attribute name="edited" value="RGVsbDtERVNLVE9QLUkyTVJSNzc7MjAyMy0wOS0wNDsxMDoxMToxMyBwLiBtLjsxOzMwMDk="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="mensaje" type="String" array="False" size=""/>
+            <assign variable="mensaje" expression="&quot;Hola perdida&quot;"/>
+            <output expression="mensaje" newline="True"/>
+            <output expression="&quot;&#191;te ayudo?&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
